@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/https//DastoBuniq.github.io/callprojrepo/static/css/main.8ac3b38a.chunk.css",
-    "main.js": "/https//DastoBuniq.github.io/callprojrepo/static/js/main.a3885ffa.chunk.js",
-    "main.js.map": "/https//DastoBuniq.github.io/callprojrepo/static/js/main.a3885ffa.chunk.js.map",
-    "runtime-main.js": "/https//DastoBuniq.github.io/callprojrepo/static/js/runtime-main.0ad4373e.js",
-    "runtime-main.js.map": "/https//DastoBuniq.github.io/callprojrepo/static/js/runtime-main.0ad4373e.js.map",
-    "static/js/2.a16247a5.chunk.js": "/https//DastoBuniq.github.io/callprojrepo/static/js/2.a16247a5.chunk.js",
-    "static/js/2.a16247a5.chunk.js.map": "/https//DastoBuniq.github.io/callprojrepo/static/js/2.a16247a5.chunk.js.map",
-    "index.html": "/https//DastoBuniq.github.io/callprojrepo/index.html",
-    "precache-manifest.43494c93102fc2d8e2abef8627819c69.js": "/https//DastoBuniq.github.io/callprojrepo/precache-manifest.43494c93102fc2d8e2abef8627819c69.js",
-    "service-worker.js": "/https//DastoBuniq.github.io/callprojrepo/service-worker.js",
-    "static/css/main.8ac3b38a.chunk.css.map": "/https//DastoBuniq.github.io/callprojrepo/static/css/main.8ac3b38a.chunk.css.map",
-    "static/js/2.a16247a5.chunk.js.LICENSE.txt": "/https//DastoBuniq.github.io/callprojrepo/static/js/2.a16247a5.chunk.js.LICENSE.txt"
+    "main.css": "/callprojrepo/static/css/main.8ac3b38a.chunk.css",
+    "main.js": "/callprojrepo/static/js/main.0fdee02e.chunk.js",
+    "main.js.map": "/callprojrepo/static/js/main.0fdee02e.chunk.js.map",
+    "runtime-main.js": "/callprojrepo/static/js/runtime-main.e69dffdd.js",
+    "runtime-main.js.map": "/callprojrepo/static/js/runtime-main.e69dffdd.js.map",
+    "static/js/2.a16247a5.chunk.js": "/callprojrepo/static/js/2.a16247a5.chunk.js",
+    "static/js/2.a16247a5.chunk.js.map": "/callprojrepo/static/js/2.a16247a5.chunk.js.map",
+    "index.html": "/callprojrepo/index.html",
+    "precache-manifest.7d1d796263ac2e9266770c0261cc1b37.js": "/callprojrepo/precache-manifest.7d1d796263ac2e9266770c0261cc1b37.js",
+    "service-worker.js": "/callprojrepo/service-worker.js",
+    "static/css/main.8ac3b38a.chunk.css.map": "/callprojrepo/static/css/main.8ac3b38a.chunk.css.map",
+    "static/js/2.a16247a5.chunk.js.LICENSE.txt": "/callprojrepo/static/js/2.a16247a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ad4373e.js",
+    "static/js/runtime-main.e69dffdd.js",
     "static/js/2.a16247a5.chunk.js",
     "static/css/main.8ac3b38a.chunk.css",
-    "static/js/main.a3885ffa.chunk.js"
+    "static/js/main.0fdee02e.chunk.js"
   ]
 }
